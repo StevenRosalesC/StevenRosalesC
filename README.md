@@ -19,6 +19,5 @@
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 If it stopped working, restart it.
-[![](https://visitcount.itsvg.in/api?id=StevenRosalesC&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
