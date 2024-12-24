@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖥️ I am currently studying a career in IT Engineering<br>🎨 I am currently learning vue<br>⌨️ I have knowledge of node.js<br>🐋 I started a Docker course<br>🧭 Front-end developer.
+🖥️ IT Engineer<br>🎨 Vue<br>⌨️ node.js<br>🐋 Docker<br>🧭 Front-end developer.
 
 
 ## 🌐 Socials:
